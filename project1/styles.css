@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: white; /* Background color for the entire website */
+    color: #333; /* Text color for the entire website */
+}
+
+header {
+    background-color: #ffc0cb; /* Soft pink color for the header */
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #ffc0cb; /* Soft pink color for the navigation bar */
+    padding: 10px;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333; /* Text color for the navigation links */
+    padding: 5px;
+}
+
+nav a:hover {
+    background-color: white;
+    color: #ffc0cb; /* Soft pink color for the navigation links on hover */
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #ffc0cb; /* Soft pink color for the footer */
+    text-align: center;
+    padding: 10px;
+}
+
+
+
